@@ -1,4 +1,4 @@
-## Cut Your Losses in Large-Vocabulary Language Models
+## Cut Your Losses in Large-Vocabulary Language Models(unsloth version, fixed)
 
 This software project accompanies the research paper:
 **[Cut Your Losses in Large-Vocabulary Language Models](https://arxiv.org/abs/2411.09009)**,
